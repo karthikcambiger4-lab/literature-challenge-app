@@ -1,0 +1,6 @@
+{
+  "name": "Literature Challenge Zone",
+  "description": "English Department interactive exhibition booth for Supernova featuring timed literary challenges and a Future Self letter station.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
